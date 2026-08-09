@@ -1,119 +1,106 @@
-<p align="center">
-  <img src="./assets/haziqa-banner.svg" width="100%" alt="Haziqa Shakir Khan — Teen Data Science Student, Python Developer, AI/ML Explorer">
-</p>
+## 🌍 About Me
 
-<h3 align="center">Hi, I'm Haziqa 👋</h3>
-<p align="center">
-  Teen Data Science student turning what I learn into things that actually run.
-</p>
+I'm a **teen Data Science student** exploring Python, Artificial Intelligence, and Machine Learning.
 
-<br>
+* 🐍 Building with **Python** and turning what I learn into real projects
+* 🧠 Exploring **AI/ML, Data Science, and backend development**
+* ⚙️ Currently learning **FastAPI, ML deployment, and AI engineering**
+* 🏥 Particularly interested in **healthcare technology and intelligent applications**
+* 🛠️ I learn best by **building, breaking, debugging, and rebuilding**
 
-### About Me
+---
 
-- 🎓 Data Science student exploring Python, AI/ML, and software development
-- 🛠️ I build projects to turn what I learn into practical applications
-- 📚 Currently learning FastAPI, machine learning, backend development, and AI engineering
-- 🌍 Interested in using technology to solve real-world problems — especially in healthcare
-- 🧩 I learn by building, debugging, experimenting, and improving
-
-<br>
-
-### Tech Arsenal
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,flask,fastapi,html,css,js,git,github,vscode" alt="tech stack icons"/>
-</p>
+### 🧰 Tech Arsenal
 
 `Python` · `Pandas` · `NumPy` · `Scikit-learn` · `TensorFlow` · `FastAPI` · `Flask` · `OpenCV` · `Git` · `GitHub` · `VS Code` · `HTML` · `CSS` · `JavaScript`
 
-<br>
+---
 
-### GitHub Stats
+## 📈 GitHub Stats
 
-<p align="center">
-  <img src="./assets/stats/stats.svg" width="49%" alt="Haziqa's GitHub stats">
-  <img src="./assets/stats/top-langs.svg" width="49%" alt="Haziqa's most used languages">
-</p>
-<p align="center">
-  <img src="./assets/stats/streak.svg" width="70%" alt="Haziqa's GitHub streak">
-</p>
+<div align="center">
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=haziqashakirkhan&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" width="48%">
 
-### Featured Projects
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haziqashakirkhan&layout=compact&hide_border=true&theme=transparent" width="40%">
 
-| Project | Tech | Description |
-|---|---|---|
-| **[Healthcare AI](https://github.com/haziqashakirkhan)** | Python · Machine Learning · FastAPI | AI-powered healthcare application focused on turning machine learning into a practical user experience |
-| **[Breast Cancer Prediction](https://github.com/haziqashakirkhan)** | Python · Scikit-learn · FastAPI | Machine learning model transformed into an interactive prediction application |
-| **[Iris Classification API](https://github.com/haziqashakirkhan)** | Python · FastAPI · Scikit-learn | REST API serving structured, real-time machine learning predictions |
-| **[Emotion Recognition](https://github.com/haziqashakirkhan)** | Python · TensorFlow · OpenCV | Deep learning and computer vision project for facial emotion recognition |
-| **[Rainfall Prediction](https://github.com/haziqashakirkhan)** | Python · Pandas · Scikit-learn | Machine learning project working with weather and environmental data |
+</div>
 
-<br>
+---
 
-### Currently Learning
+### 🚀 Featured Projects
 
-`Python Development` → `Machine Learning` → `FastAPI & Backend Development` → `AI Engineering` → `ML Model Deployment`
+| Project                                                             | Tech                            | Description                                                                |
+| :------------------------------------------------------------------ | :------------------------------ | :------------------------------------------------------------------------- |
+| **[Healthcare AI](https://github.com/haziqashakirkhan)**            | Python · ML · FastAPI           | Exploring how AI can be turned into a practical healthcare application     |
+| **[Breast Cancer Prediction](https://github.com/haziqashakirkhan)** | Python · Scikit-learn · FastAPI | ML prediction model integrated into an interactive application             |
+| **[Iris Classification API](https://github.com/haziqashakirkhan)**  | Python · FastAPI · Scikit-learn | REST API for serving structured machine learning predictions               |
+| **[Emotion Recognition](https://github.com/haziqashakirkhan)**      | Python · TensorFlow · OpenCV    | Exploring deep learning and computer vision for facial emotion recognition |
+| **[Rainfall Prediction](https://github.com/haziqashakirkhan)**      | Python · Pandas · Scikit-learn  | Machine learning project using weather and environmental data              |
 
-Growing from Data Science into building complete AI applications, one project at a time.
+---
 
-<br>
+### 🌱 Currently Learning
 
-### Looking to Collaborate On
+`Python Development` → `Machine Learning` → `FastAPI` → `Backend Development` → `AI Engineering` → `ML Deployment`
 
-- AI / Machine Learning projects
-- Data Science projects
-- Python applications
-- Backend APIs
-- Beginner-friendly open-source projects
+Learning how to move from **training models to actually building with them**.
 
-<br>
+---
 
-### Ask Me About
+### 🤝 Looking to Collaborate On
 
-`Python` `Data Science` `Machine Learning` `FastAPI` `Scikit-learn` `TensorFlow` `ML Projects`
+* AI / Machine Learning projects
+* Data Science projects
+* Python applications
+* Backend APIs
+* Open-source projects where I can learn and contribute
 
-<br>
+---
 
-### Fun Fact
+### 💬 Ask Me About
 
-> I learn by building. If I discover something interesting, I usually end up turning it into a project just to see how far I can take it.
+`Python` · `Data Science` · `Machine Learning` · `FastAPI` · `Scikit-learn` · `TensorFlow`
 
-<br>
+---
 
-### Developer Quote
+### ⚡ Fun Fact
 
-> "Code is easy to write and hard to read. Slow down for the reading part."
+> I don't really learn by watching tutorials endlessly. I learn by building something, breaking it, figuring out why it broke, and trying again.
 
-<br>
+---
 
-### Contribution Snake
+### 💭 Developer Quote
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/haziqashakirkhan/haziqashakirkhan/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/haziqashakirkhan/haziqashakirkhan/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/haziqashakirkhan/haziqashakirkhan/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+> *"Code is easy to write and hard to read. Slow down for the reading part."*
 
-<br>
+---
 
-### Let's Connect
+### 🐍 Contribution Snake
 
-<p align="center">
-  <a href="https://haziqashakirkhan-portfolio.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://github.com/haziqashakirkhan">GitHub</a>
-  <!-- add once available:
-  &nbsp;·&nbsp; <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-  &nbsp;·&nbsp; <a href="YOUR_BUYMEACOFFEE_URL">Buy Me a Coffee</a>
-  -->
-</p>
+<div align="center">
 
-<br>
+<img src="./output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 
-<p align="center">
-  <sub>Built with quiet confidence, a lot of debugging, and one too many open tabs.</sub>
-</p>
+</div>
+
+---
+
+### 🤝 Let's Connect
+
+<div align="center">
+
+**[LinkedIn](YOUR_LINKEDIN_URL)** · **[Portfolio](https://haziqashakirkhan-portfolio.vercel.app/)** · **[Buy Me a Coffee](YOUR_BUYMEACOFFEE_URL)**
+
+</div>
+
+---
+
+<div align="center">
+
+**Building • Learning • Debugging • Repeating**
+
+Made with 🖤 & code by **Haziqa Shakir Khan**
+
+</div>
+
