@@ -1,0 +1,62 @@
+<svg width="1400" height="360" viewBox="0 0 1400 360" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#faf7f5"/>
+      <stop offset="100%" stop-color="#f1ece8"/>
+    </linearGradient>
+    <linearGradient id="figure" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#3a3230"/>
+      <stop offset="100%" stop-color="#2a2422"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c98a7d"/>
+      <stop offset="100%" stop-color="#d8a99e"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1400" height="360" fill="url(#bg)"/>
+
+  <!-- faint dot grid, tech texture, kept subtle -->
+  <g fill="#2a2422" opacity="0.05">
+    <circle cx="60" cy="40" r="2"/><circle cx="100" cy="40" r="2"/><circle cx="140" cy="40" r="2"/>
+    <circle cx="60" cy="80" r="2"/><circle cx="100" cy="80" r="2"/><circle cx="140" cy="80" r="2"/>
+    <circle cx="1260" cy="300" r="2"/><circle cx="1300" cy="300" r="2"/><circle cx="1340" cy="300" r="2"/>
+    <circle cx="1260" cy="260" r="2"/><circle cx="1300" cy="260" r="2"/><circle cx="1340" cy="260" r="2"/>
+  </g>
+
+  <!-- abstract code brackets, left -->
+  <text x="70" y="200" font-family="Menlo, Consolas, monospace" font-size="120" fill="#c98a7d" opacity="0.18">{ }</text>
+
+  <!-- figure: minimal geometric silhouette, modest covered shape, no facial detail -->
+  <g transform="translate(1030, 55)">
+    <!-- flowing outer garment silhouette -->
+    <path d="M110 40
+             C 60 40, 20 90, 22 150
+             C 24 210, 40 250, 30 290
+             C 90 300, 260 300, 300 290
+             C 288 250, 300 210, 296 150
+             C 292 90, 250 40, 200 40
+             C 175 20, 135 20, 110 40 Z"
+          fill="url(#figure)"/>
+    <!-- face covering panel, no features drawn -->
+    <path d="M118 46
+             C 118 90, 122 140, 160 150
+             C 198 140, 202 90, 202 46
+             C 180 30, 140 30, 118 46 Z"
+          fill="#241f1d"/>
+    <!-- soft highlight line for dimension -->
+    <path d="M118 46 C 118 90, 122 140, 160 150" stroke="#4a413e" stroke-width="2" fill="none" opacity="0.6"/>
+    <!-- laptop suggestion, minimal -->
+    <rect x="70" y="270" width="180" height="10" rx="3" fill="url(#accent)"/>
+    <rect x="95" y="248" width="130" height="24" rx="4" fill="#2a2422"/>
+    <rect x="102" y="254" width="116" height="4" rx="2" fill="#d8a99e" opacity="0.7"/>
+    <rect x="102" y="262" width="80" height="4" rx="2" fill="#d8a99e" opacity="0.4"/>
+  </g>
+
+  <!-- name mark, right-aligned near figure -->
+  <text x="700" y="150" font-family="Helvetica, Arial, sans-serif" font-size="46" font-weight="600" fill="#2a2422" text-anchor="middle">Haziqa Shakir Khan</text>
+  <text x="700" y="190" font-family="Helvetica, Arial, sans-serif" font-size="20" fill="#8a7f7a" text-anchor="middle" letter-spacing="1">TEEN DATA SCIENCE STUDENT · PYTHON DEVELOPER · AI/ML EXPLORER</text>
+
+  <!-- thin accent rule -->
+  <rect x="560" y="215" width="280" height="3" rx="1.5" fill="url(#accent)"/>
+</svg>

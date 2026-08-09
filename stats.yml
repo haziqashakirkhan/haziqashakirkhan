@@ -1,0 +1,50 @@
+name: update-stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"   # once a day, 3am UTC
+  workflow_dispatch: {}
+  push:
+    paths:
+      - ".github/workflows/stats.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@main
+        with:
+          card: stats
+          options: username=haziqashakirkhan&show_icons=true&hide_border=true&theme=default&hide_rank=false
+          path: assets/stats/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@main
+        with:
+          card: top-langs
+          options: username=haziqashakirkhan&layout=compact&hide_border=true&theme=default
+          path: assets/stats/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=haziqashakirkhan&hide_border=true&theme=default&disable_animations=true
+          path: assets/stats/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit updated cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/stats/*.svg
+          git commit -m "chore: refresh stats cards" || exit 0
+          git push
