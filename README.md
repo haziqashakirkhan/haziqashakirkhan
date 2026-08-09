@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github-banner.png" width="100%" alt="Haziqa Shakir Khan">
+
 
 # Hi, I'm Haziqa Shakir Khan 👋
 
@@ -35,23 +35,23 @@
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=haziqashakirkhan&show_icons=true&hide_border=true&rank_icon=github"
-alt="Haziqa's GitHub Stats"
-width="48%"
+  src="https://github-stats-extended.vercel.app/api?username=haziqashakirkhan&show_icons=true&hide_border=true&rank_icon=github"
+  alt="Haziqa's GitHub Stats"
+  width="48%"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=haziqashakirkhan&layout=compact&hide_border=true"
-alt="Haziqa's Top Languages"
-width="40%"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=haziqashakirkhan&layout=compact&hide_border=true"
+  alt="Haziqa's Top Languages"
+  width="40%"
 />
 
 <br><br>
 
 <img
-src="https://streak-stats.demolab.com/?user=haziqashakirkhan&hide_border=true"
-alt="Haziqa's GitHub Streak"
-width="65%"
+  src="https://streak-stats.demolab.com/?user=haziqashakirkhan&hide_border=true"
+  alt="Haziqa's GitHub Streak"
+  width="65%"
 />
 
 </div>
