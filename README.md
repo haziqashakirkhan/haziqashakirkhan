@@ -24,9 +24,35 @@
 
 ---
 
-### 🧰 My Tech Arsenal
+### 🧰 Tech Arsenal
 
-`Python` · `Pandas` · `NumPy` · `Scikit-learn` · `TensorFlow` · `FastAPI` · `Flask` · `OpenCV` · `Git` · `GitHub` · `VS Code` · `HTML` · `CSS` · `JavaScript`
+#### Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=javascript" width="45" height="45" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=html" width="45" height="45" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="CSS"/>
+</p>
+
+#### Data Science & AI
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" height="45" alt="Scikit-learn"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" height="45" alt="OpenCV"/>
+</p>
+
+#### Backend & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=fastapi" width="45" height="45" alt="FastAPI"/>
+  <img src="https://skillicons.dev/icons?i=flask" width="45" height="45" alt="Flask"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="45" height="45" alt="VS Code"/>
+</p>
+-----
+---
 
 ---
 
@@ -35,27 +61,26 @@
 <div align="center">
 
 <img
-  src="https://github-stats-extended.vercel.app/api?username=haziqashakirkhan&show_icons=true&hide_border=true&rank_icon=github"
-  alt="Haziqa's GitHub Stats"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=haziqashakirkhan&theme=tokyonight"
   width="48%"
+  alt="GitHub Stats"
 />
 
 <img
-  src="https://github-stats-extended.vercel.app/api/top-langs/?username=haziqashakirkhan&layout=compact&hide_border=true"
-  alt="Haziqa's Top Languages"
-  width="40%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=haziqashakirkhan&theme=tokyonight"
+  width="48%"
+  alt="Top Languages"
 />
 
 <br><br>
 
 <img
-  src="https://streak-stats.demolab.com/?user=haziqashakirkhan&hide_border=true"
-  alt="Haziqa's GitHub Streak"
-  width="65%"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haziqashakirkhan&theme=tokyonight"
+  width="96%"
+  alt="GitHub Profile Details"
 />
 
 </div>
-
 ---
 
 ### 🚀 Featured Projects
@@ -137,19 +162,25 @@ I'm interested in projects where I can **learn, contribute, and build something 
 
 ### 🤝 Let's Connect
 
+<p align="left">
+
+<a href="YOUR_LINKEDIN_URL" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="45" height="45" alt="LinkedIn"/>
+</a>
+
+<a href="https://haziqashakirkhan-portfolio.vercel.app/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel" width="45" height="45" alt="Portfolio"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL_ADDRESS">
+  <img src="https://cdn.simpleicons.org/gmail/EA4335" width="45" height="45" alt="Email"/>
+</a>
+
+</p>
+
 <div align="center">
 
-**[LinkedIn](YOUR_LINKEDIN_URL)** · **[Portfolio](https://haziqashakirkhan-portfolio.vercel.app/)** · **[Buy Me a Coffee](YOUR_BUYMEACOFFEE_URL)**
-
-</div>
-
----
-
-<div align="center">
-
-### Building · Learning · Debugging · Repeating
-
-Made with 🖤 & code by **Haziqa Shakir Khan**
+**Dreaming in ideas, learning through code, and building little things that matter. ♡**
 
 </div>
 
