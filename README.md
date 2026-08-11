@@ -137,24 +137,11 @@ I'm interested in projects where I can **learn, contribute, and build something 
 
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/haziqashakirkhan/haziqashakirkhan/output/github-snake-dark.svg"
-  />
-
-<source
- media="(prefers-color-scheme: light)"
- srcset="https://raw.githubusercontent.com/haziqashakirkhan/haziqashakirkhan/output/github-snake.svg"
-/>
-
 <img
- src="https://raw.githubusercontent.com/haziqashakirkhan/haziqashakirkhan/output/github-snake.svg"
- alt="GitHub Contribution Snake"
- width="100%"
+  src="https://raw.githubusercontent.com/haziqashakirkhan/haziqashakirkhan/output/github-snake-dark.svg"
+  alt="Haziqa's GitHub Contribution Snake"
+  width="100%"
 />
-
-</picture>
 
 </div>
 
